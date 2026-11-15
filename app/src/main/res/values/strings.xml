@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game Guard</string>
+    <string name="admin_description">يسمح للتطبيق بتعطيل شريط الحالة أثناء اللعب. يتطلب أن يكون التطبيق مالك الجهاز.</string>
+    <string name="accessibility_description">يلتقط ضغطتين على أزرار الصوت لتشغيل أو إيقاف وضع اللعب.</string>
+</resources>
